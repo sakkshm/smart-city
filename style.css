@@ -40,36 +40,36 @@ nav ul li a{
 }
 
 .pimg1{
-	background-image: url('http://i.imgur.com/3A73miq.jpg');
+	background-image: url('src/img1.jpg');
 	min-height: 100%;
 }
 
 .pimg2{
-	background-image: url('http://i.imgur.com/M3HrQyO.jpg');
+	background-image: url('src/img2.jpg');
 	min-height: 500px;
 }
 
 .pimg3{
-	background-image: url('http://i.imgur.com/8rwSKp3.jpg');
+	background-image: url('src/img3.jpg');
 	min-height:500px;
 }
 
 .pimg7{
-	background-image: url('https://images.pexels.com/photos/711193/pexels-photo-711193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-image: url('src/img7.jpeg');
 	min-height: 500px;
 }
 
 .pimg8{
-	background-image: url('https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-image: url('src/img8.jpeg');
 	min-height:500px;
 }
 .pimg9{
-	background-image: url('https://images.pexels.com/photos/2887207/pexels-photo-2887207.jpeg?auto=compress&cs=tinysrgb&w=600');
+	background-image: url('src/img9.jpeg');
 	min-height: 500px;
 }
 
 .pimg10{
-	background-image: url('https://images.pexels.com/photos/904272/pexels-photo-904272.jpeg?auto=compress&cs=tinysrgb&w=600');
+	background-image: url('src/img10.jpeg');
 	min-height:500px;
 }
 
